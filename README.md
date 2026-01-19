@@ -54,5 +54,8 @@ The system is designed to be **simple, fast, and user‑friendly**, making it su
 
 ---
 
-## 📂 Project Structure
+## 📂dataset
+Dataset used in this project is publicly available on Kaggle:
+APTOS 2019 Blindness Detection Dataset.
+Users can upload retinal images directly for prediction.
 
